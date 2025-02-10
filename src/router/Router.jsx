@@ -37,7 +37,7 @@ export default function Router() {
                 <Route path="/myposts/:id" element={<Dashboard />}  />
                 {/* <Route path="/" element={<DeletePost />}  /> */}
                 <Route path="/posts/:id/edit" element={<EditPost />}  />
-                {/* <Route path="/" element={<ErrorPage />}  /> */}
+                {/* <Route path="/" element={<ErrorPage />}  /> */} 
                 <Route path="/login" element={<Login />}  />
                 <Route path="/logout" element={<Logout />}  />
                 <Route path="/posts/:id" element={<PostDtail />}  />

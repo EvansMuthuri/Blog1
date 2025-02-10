@@ -14,7 +14,7 @@ export const DummyPosts = [
         category: 'Education',
         authorId: 2,
         title: 'Lorem Ipsum is simply a dummy text of the printing and typesetting Industry',
-        desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
+        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
     },
     {
         id:2,
@@ -22,7 +22,7 @@ export const DummyPosts = [
         category: 'Education',
         authorId: 2,
         title: 'Lorem Ipsum is simply a dummy text of the printing and typesetting Industry',
-        desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
+        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
     },
     {
         id:3,
@@ -30,7 +30,7 @@ export const DummyPosts = [
         category: 'Education',
         authorId: 2,
         title: 'Lorem Ipsum is simply a dummy text of the printing and typesetting Industry',
-        desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
+        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
     },
     {
         id:4,
@@ -38,7 +38,7 @@ export const DummyPosts = [
         category: 'Education',
         authorId: 2,
         title: 'Lorem Ipsum is simply a dummy text of the printing and typesetting Industry',
-        desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
+        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
     },
     {
         id:5,
@@ -46,7 +46,7 @@ export const DummyPosts = [
         category: 'Education',
         authorId: 2,
         title: 'Lorem Ipsum is simply a dummy text of the printing and typesetting Industry',
-        desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
+        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
     },
     {
         id:6,
@@ -54,6 +54,6 @@ export const DummyPosts = [
         category: 'Education',
         authorId: 2,
         title: 'Lorem Ipsum is simply a dummy text of the printing and typesetting Industry',
-        desc:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
+        des:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, repellat cumque. Omnis, ducimus dolorem rerum praesentium facere quisquam laudantium dolores? Excepturi quam nisi aperiam ea asperiores! Velit, sint omnis. Laboriosam!',
     },
 ]

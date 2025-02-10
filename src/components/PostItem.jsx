@@ -1,4 +1,4 @@
-import Posts from './Posts'
+// import Posts from './Posts'
 import { Link } from 'react-router-dom'
 import PostAuthor from './PostAuthor'
 
