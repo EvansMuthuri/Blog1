@@ -203,10 +203,10 @@ nav{
     padding-bottom: 2rem;
     transition: var(--transition);
     cursor: pointer;
-    box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.1);
 }
 .post:hover{
-    box-shadow: none;
+    box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.1);
+
 }
 .post-image{
     border-radius: var(--border-radius-3);
@@ -215,9 +215,9 @@ nav{
     /* overflow: hidden; */
 
 }
-/* .post-image img{
-    aspect-ratio: 1/1;
-} */
+.post-image img{
+    height: 100%;
+}
 .post-content{
     margin-top: 1.5rem;
 }
@@ -230,7 +230,18 @@ nav{
     margin-top: 2rem;
     justify-content: space-between;
 }
-
+.post-author{
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+.post-author-image{
+    width: 2.8rem;
+    border-radius: 50%;
+    overflow: hidden;
+    aspect-ratio: 1/1;
+    border: 3px solid var(--color-light);
+}
 /* --------------------End Posts Component---------------- */
 /* ===================End HomePage=================== */
 
