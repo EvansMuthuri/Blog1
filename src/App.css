@@ -247,7 +247,24 @@ nav{
 
 
 
+/* --------------Start Postdails---------------------- */
 
+.PostDtail-container{
+    width: 50%;
+    padding: 2rem;
+    background: var(--color-white);
+}
+.postdtail-top{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.6rem;
+}
+.postdtail-buttons{
+    display: flex;
+    gap: 1rem;
+}
+
+/* --------------End Postdails---------------------- */
 
 
 
